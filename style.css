@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+}
+.container{
+    background-color: rgb(232, 232, 246);
+}
+#logo{
+    width: 80px;
+    margin-left: 110px;
+    margin-top: 8px;
+}
+.title{
+    display: inline-block;
+    text-align: center;
+}
+.btn{
+    float: right;
+    margin-right:20px;
+    margin-top: 22px;
+    padding: 10px;
+}
+#btn1{
+    margin-right: 130px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-weight: bolder;
+    border-style: none;
+}
+#btn2{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-weight: bolder;
+    border-style: none;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.nav{
+    background-color: rgb(12, 12, 146);
+    height: 60px;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+    padding: 10px;
+    margin-left: 25px;
+}
+.image{
+    background-image:url(img2.png);
+    font-weight: lighter;
+    font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1500px;
+}
+#para{
+    float: left;
+    width: 50%;
+    margin-left: 100px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 15px;
+}
+#head{
+    float: left;
+    width: 50%;
+    margin-left: 75px;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#pic{
+    margin-top: 25px;
+    width: 500px;
+    height: 300px;
+    margin-right:40px;
+    
+}
+.info{
+    color: rgb(13, 13, 119);
+}
+.contact{
+ color: white;
+ background-color: #0D1D2C;
+margin-top: 25px;
+
+}
+.a{
+    padding-top: 50px;
+}
+.details{
+    font-size: larger;
+    text-align: center;
+    margin: 20px;
+}
+.b{
+    font-size: 30px;
+    display: inline-block;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-top: 8px;
+    margin-bottom: 10px;
+}
+#msg1{
+    color: blue;
+    margin-left: 90px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#imgsir{
+    margin-left:90px;
+    height: 360px;
+}
+.righta{
+    float: right;
+}
+#imp{
+   text-align: right;
+}
+#rightm{
+    color: white;
+    background-color: rgb(25, 19, 114);
+    font-weight: bolder;
+    border-style: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 3px;
+}
+#rightm:hover{
+    cursor: pointer;
+}
